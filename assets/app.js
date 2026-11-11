@@ -1,4 +1,4 @@
-/* Дистанційний пілот БпС A1/A3 — рушій сайту
+/* Дистанційний пілот БПС A1/A3 — рушій сайту
  * Контент лежить у content/*.js і додається в window.COURSE.
  * Уроки: { id, module, title, titleEn, kind?, html }
  * Вправи: COURSE.ex[id] = { type: 'tf' | 'mcq' | 'reveal' | 'matrix', ... }
