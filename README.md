@@ -1,4 +1,4 @@
-# Дистанційний пілот БпС: відкрита категорія A1/A3
+# Дистанційний пілот БПС: відкрита категорія A1/A3
 
 Навчальний сайт українською мовою за структурою курсу «A1/A3 Course & Examination - UAS Remote Pilot Open Category» (DAC Luxembourg, EUROCONTROL Learning Zone). Тексти уроків - авторський виклад, не переклад.
 
